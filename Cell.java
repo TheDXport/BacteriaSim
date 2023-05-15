@@ -1,4 +1,4 @@
-package Cellsht;
+package BacteriaSim;
 
 public class Cell {
     // TO DO: DECIDE WHAT TYPE OF VARIABLE TO STORE LIVING/DEAD
