@@ -1,4 +1,4 @@
-package Cellsht;
+package BacteriaSim;
 
 public class Grid {
     Cell[][] world;
