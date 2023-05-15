@@ -1,4 +1,4 @@
-package Cellsht;
+package BacteriaSim;
 
 
 import java.util.concurrent.Executors;
