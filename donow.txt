@@ -1,0 +1,11 @@
+To Do List:
+[√] Complete the Cell class:
+[√] Determine what type of variable to use to track the status of the cell (int, String, boolean)
+[√] Complete the constructor method
+[√] Complete the toString() method (determine how to vizualize each cell, i.e. X/O or some other variation)
+[√] Test Cell class to make sure it works before creating a Grid of cells.
+[√] Complete the Grid class:
+[√] Finish the constructor method which should set up the first generation 
+[√] Write the toString() method to visualize the grid so testing can be done going forward. Represent the world as rows & columns of Cells.
+[√] Create the method countNeighbors() which takes in a specific location and returns the count of how many surrounding neighbors are living.
+[√] Once countNeighbors() is coded and working (test code along the way), the grid can be updated to the next generation based on the given rules in the updateBoard() method.
